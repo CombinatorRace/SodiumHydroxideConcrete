@@ -15,4 +15,4 @@ data:extend({
 		  {type="item", name="concrete", amount=2}
     },
 	},
-}
+})
