@@ -1,7 +1,8 @@
+table.insert(data.raw["technology"]["concrete"].effects,{type="unlock-recipe", recipe="concrete-with-sodium-hydroxide"})
 data:extend({
   {
     type = "recipe",
-    name = "concrete",
+    name = "concrete-with-sodium-hydroxide",
     category = "crafting-with-fluid",
 	  subgroup = "petrochem-basics",
     energy_required = 2,
